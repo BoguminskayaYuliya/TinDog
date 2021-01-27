@@ -1,1 +1,3 @@
-TinDog Starting Files
+TinDog
+Тиндер для собак.
+Ссылки некликабельны, сайт сделан для отработки CSS и Bootstrap.
